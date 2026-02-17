@@ -1,4 +1,4 @@
-** 🌿 Automated Tobacco Leaf Grading Using Hybrid Deep Learning**
+**🌿 Automated Tobacco Leaf Grading Using Hybrid Deep Learning**
 
 
 This project focuses on automated quality grading of tobacco leaves using machine learning and deep learning techniques. The goal is to replace manual inspection with a reliable, consistent, and scalable AI-based solution.
