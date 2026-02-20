@@ -1,6 +1,7 @@
 **🌿 Automated Tobacco Leaf Grading Using Hybrid Deep Learning**
 
+This project is an industry-oriented solution developed for the Central Tobacco Research Institute (CTRI), focusing on the automated quality grading of tobacco leaves using machine learning and deep learning techniques.
 
-This project focuses on automated quality grading of tobacco leaves using machine learning and deep learning techniques. The goal is to replace manual inspection with a reliable, consistent, and scalable AI-based solution.
+The primary objective of this project is to reduce dependency on manual inspection, which is often time-consuming, subjective, and inconsistent, by providing a reliable, consistent, and scalable AI-based grading system suitable for real-world industrial use.
 
-The system classifies tobacco leaf images into different quality grades by learning visual features such as texture, color, and shape from images.
+The system analyzes tobacco leaf images and classifies them into different quality grades by learning critical visual features such as texture, color distribution, and structural patterns. By leveraging deep learning models, the solution aims to support objective decision-making and quality control in the tobacco industry.
